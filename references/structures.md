@@ -1,134 +1,173 @@
-# Structures to Avoid
+# 피해야 할 구조
 
-## Binary Contrasts
+## 이진 대조
 
-These create false drama. State the point directly.
+거짓 드라마를 만든다. 바로 요점을 말할 것.
 
-| Pattern | Problem |
-|---------|---------|
-| "Not because X. Because Y." / "Not because X, but because Y." | Telegraphed reversal |
-| "[X] isn't the problem. [Y] is." | Formulaic reframe |
-| "The answer isn't X. It's Y." | Predictable pivot |
-| "It feels like X. It's actually Y." | Setup/reveal cliche |
-| "The question isn't X. It's Y." | Rhetorical misdirection |
-| "Not X. But Y." / "not X, it's Y" / "isn't X, it's Y" | Mechanical contrast |
-| "It's not this. It's that." | Same formula, different words |
-| "stops being X and starts being Y" | False transformation arc |
-| "doesn't mean X, but actually Y" | Negation-then-assertion crutch |
-| "is about X but not Y" | False distinction |
-| "not just X but also Y" | Additive hedge |
+| 패턴 | 문제 |
+|------|------|
+| "~때문이 아닙니다. ~때문입니다." | 예고된 반전 |
+| "[X]가 문제가 아닙니다. [Y]가 문제입니다." | 뻔한 재구성 |
+| "답은 X가 아닙니다. Y입니다." | 예측 가능한 전환 |
+| "X처럼 보이지만, 사실은 Y입니다." | 셋업/공개 클리셰 |
+| "질문은 X가 아닙니다. Y입니다." | 수사적 오도 |
+| "X가 아니라 Y입니다." / "X이 아닌 Y" | 기계적 대조 |
+| "이것이 아닙니다. 저것입니다." | 같은 공식의 반복 |
+| "X이기를 멈추고 Y가 되기 시작합니다" | 거짓 변환 서사 |
+| "X를 의미하는 게 아니라 사실은 Y" | 부정-긍정 목발 |
+| "X에 관한 것이지만 Y는 아닙니다" | 거짓 구별 |
+| "단순히 X만이 아니라 Y이기도 합니다" | 덧붙이기식 완화 |
 
-**Instead:** State Y directly. "The problem is Y." "Y matters here." Drop the negation entirely.
+**대신:** Y를 바로 말할 것. "문제는 Y입니다." "Y가 중요합니다." 부정을 아예 빼라.
 
-## Negative Listing
+## 부정 나열
 
-Listing what something is *not* before revealing what it *is*. A rhetorical striptease.
+무엇이 아닌지를 먼저 나열하고 나서야 무엇인지 밝히는 수법. 수사적 스트립쇼.
 
-| Pattern | Problem |
-|---------|---------|
-| "Not a X... Not a Y... A Z." | Dramatic buildup through negation |
-| "It wasn't X. It wasn't Y. It was Z." | Same structure, past tense |
+| 패턴 | 문제 |
+|------|------|
+| "X가 아닙니다... Y도 아닙니다... Z입니다." | 부정을 통한 극적 쌓기 |
+| "X가 아니었습니다. Y도 아니었습니다. Z였습니다." | 같은 구조의 과거형 |
 
-**Instead:** State Z. The reader doesn't need the runway.
+**대신:** Z를 바로 말할 것. 독자에게 활주로가 필요 없다.
 
-## Dramatic Fragmentation
+## 극적 분절
 
-Sentence fragments for emphasis read as manufactured profundity.
+강조용 문장 쪼개기. 제조된 깊이.
 
-| Pattern | Problem |
-|---------|---------|
-| "[Noun]. That's it. That's the [thing]." | Performative simplicity |
-| "X. And Y. And Z." | Staccato drama |
-| "This unlocks something. [Word]." | Artificial revelation |
+| 패턴 | 문제 |
+|------|------|
+| "[명사]. 그것뿐입니다. 그게 [뭐]입니다." | 연출된 단순함 |
+| "X. 그리고 Y. 그리고 Z." | 스타카토식 드라마 |
+| "이것은 무언가를 열어줍니다. [단어]." | 인위적 공개 |
 
-**Instead:** Complete sentences. Trust content over presentation.
+**대신:** 완전한 문장을 쓸 것. 포장이 아닌 내용을 믿어라.
 
-## Rhetorical Setups
+## 수사적 셋업
 
-These announce insight rather than deliver it.
+통찰을 전달하는 것이 아니라 예고하는 표현.
 
-| Pattern | Problem |
-|---------|---------|
-| "What if [reframe]?" | Socratic posturing |
-| "Here's what I mean:" | Redundant preview |
-| "Think about it:" | Condescending prompt |
-| "And that's okay." | Unnecessary permission |
+| 패턴 | 문제 |
+|------|------|
+| "만약 ~라면 어떨까요?" | 소크라테스 흉내 |
+| "제 말은 이겁니다:" | 불필요한 예고 |
+| "생각해 보세요:" | 위에서 내려다보는 촉구 |
+| "그래도 괜찮습니다." | 불필요한 허락 |
+| "궁금하지 않으세요?" | 강제 질문 |
+| "바로 ~입니다." | 공개 연출 |
 
-**Instead:** Make the point. Let readers draw conclusions.
+**대신:** 바로 요점을 말할 것. 독자가 알아서 결론을 내리게 둬라.
 
-## Formulaic Constructions
+## 뻔한 구성
 
-| Pattern | Problem |
-|---------|---------|
-| "By the time X, I was Y." | Narrative template |
-| "X that isn't Y" | Indirect. Say "X is broken" |
+| 패턴 | 문제 |
+|------|------|
+| "~했을 때, 나는 ~였다." | 서사 템플릿 |
+| "~인 X가 아닌 Y" | 간접적. 직접 "Y는 망가졌다"고 쓸 것 |
 
-## False Agency
+## 거짓 주체성
 
-Giving inanimate things human verbs. Complaints don't "become" fixes. Bets don't "live or die." Decisions don't "emerge." A person does something to make those things happen. AI loves this because it avoids naming the actor.
+무생물에 사람 동사를 붙이기. 불만이 스스로 "수정으로 바뀌"지 않는다. 의사결정이 "나타나"지 않는다. 누군가 그것을 하는 것이다.
 
-| Pattern | Problem |
-|---------|---------|
-| "a complaint becomes a fix" | The complaint did nothing. Someone fixed it. |
-| "a bet lives or dies in days" | Bets don't have lifespans. Someone kills the project or ships it. |
-| "the decision emerges" | Decisions don't emerge. Someone decides. |
-| "the culture shifts" | Cultures don't shift on their own. People change behavior. |
-| "the conversation moves toward" | Conversations don't move. Someone steers. |
-| "the data tells us" | Data sits there. Someone reads it and draws a conclusion. |
-| "the market rewards" | Markets don't reward. Buyers pay for things. |
+AI가 이걸 좋아하는 이유: 행위자를 지목하지 않아도 되니까.
 
-**Instead:** Name the human. "The team fixed it that week" beats "the complaint becomes a fix." If no specific person fits, use "you" to put the reader in the seat.
+| 패턴 | 문제 |
+|------|------|
+| "불만이 해결책이 됩니다" | 불만은 아무것도 안 한다. 누군가 고친 것 |
+| "프로젝트가 살거나 죽거나" | 프로젝트는 생명이 없다. 누군가 접거나 출시한 것 |
+| "결정이 나타납니다" | 결정은 나타나지 않는다. 누군가 결정한 것 |
+| "문화가 바뀝니다" | 문화가 혼자 바뀌지 않는다. 사람들이 행동을 바꾸는 것 |
+| "대화가 ~쪽으로 흘러갑니다" | 대화는 안 흘러간다. 누군가 방향을 바꾸는 것 |
+| "데이터가 말해줍니다" | 데이터는 가만히 있다. 누군가 읽고 결론을 내린 것 |
+| "시장이 보상합니다" | 시장은 보상 안 한다. 구매자가 돈을 내는 것 |
+| "기술이 발전합니다" | 기술이 알아서 발전하지 않는다. 사람이 만드는 것 |
+| "시대가 요구합니다" | 시대는 아무것도 요구하지 않는다. 상황이 달라진 것 |
+| "트렌드가 보여줍니다" | 트렌드는 보여주지 않는다. 분석한 사람이 해석한 것 |
 
-## Narrator-from-a-Distance
+**대신:** 사람을 주어로 쓸 것. "팀이 그 주에 고쳤다"가 "불만이 해결책이 됩니다"보다 낫다. 특정 인물이 안 맞으면 "당신"을 써서 독자를 그 자리에 놓을 것.
 
-Floating above the scene instead of putting the reader in it.
+## 먼 곳에서 내려다보는 화자
 
-| Pattern | Problem |
-|---------|---------|
-| "Nobody designed this." | Disembodied observation |
-| "This happens because..." | Lecturer voice |
-| "This is why..." | Same |
-| "People tend to..." | Armchair sociologist |
+장면 안에 넣는 대신 위에서 떠다니며 관찰하는 시점.
 
-**Instead:** Put the reader in the room. "You don't sit down one day and decide to..." beats "Nobody designed this."
+| 패턴 | 문제 |
+|------|------|
+| "아무도 이걸 설계하지 않았습니다." | 허공의 관찰 |
+| "이런 일이 생기는 이유는..." | 강의자 말투 |
+| "이래서 ~인 겁니다" | 위와 동일 |
+| "사람들은 ~하는 경향이 있습니다" | 안락의자 사회학자 |
+| "우리 사회는 ~" | 추상적 주체 |
+| "현대인은 ~" | 뭉뚱그린 주체 |
 
-## Passive Voice
+**대신:** 독자를 장면 안에 넣을 것. "당신은 어느 날 앉아서 결심하지 않습니다..."가 "아무도 이걸 설계하지 않았습니다"보다 낫다.
 
-Every sentence needs a subject doing something. Passive voice hides the actor and drains energy.
+## 수동태 / 피동 남용
 
-| Pattern | Fix |
-|---------|-----|
-| "X was created" | Name who created it |
-| "It is believed that" | Name who believes it |
-| "Mistakes were made" | Name who made them |
-| "The decision was reached" | Name who decided |
+모든 문장에 무언가를 하는 주어가 있어야 한다. 수동태는 행위자를 숨기고 문장의 힘을 빼간다.
 
-**Instead:** Find the actor. Put them at the front of the sentence.
+| 패턴 | 수정 |
+|------|------|
+| "X가 만들어졌다" | 누가 만들었는지 쓸 것 |
+| "~(으)로 여겨진다" | 누가 그렇게 보는지 쓸 것 |
+| "실수가 있었다" | 누가 실수했는지 쓸 것 |
+| "결정이 내려졌다" | 누가 결정했는지 쓸 것 |
+| "~(으)로 분석된다" | 누가 분석하는지 쓸 것 |
+| "~것으로 보인다" | 누가 보는지, 근거가 뭔지 쓸 것 |
+| "~것으로 판단된다" | 누가 판단하는지 쓸 것 |
 
-## Sentence Starters to Avoid
+**대신:** 행위자를 찾아서 문장 앞에 놓을 것.
 
-| Pattern | Fix |
-|---------|-----|
-| Sentences starting with What, When, Where, Which, Who, Why, How | Restructure. Lead with the subject or the verb. |
-| Paragraphs starting with "So" | Start with content |
-| Sentences starting with "Look," | Remove |
+## 한국어 특유: 과도한 존대 구조
 
-Wh- openers become a crutch. "What makes this hard is..." becomes "The constraint is..." or better, name the specific constraint.
+AI 한국어 글의 가장 큰 구조적 특징.
 
-## Rhythm Patterns
+| 패턴 | 문제 |
+|------|------|
+| 모든 문장이 "~ㅂ니다"로 끝남 | 로봇 같은 단조로움 |
+| "~하시기 바랍니다" 반복 | 관공서 문체 |
+| "~해 주시면 감사하겠습니다" | 과잉 공손 |
+| "~(으)시기를 권장합니다" | 안내 방송 말투 |
 
-| Pattern | Fix |
-|---------|-----|
-| Three-item lists | Use two items or one |
-| Questions answered immediately | Let questions breathe or cut them |
-| Every paragraph ends punchily | Vary endings |
-| Em-dashes | Remove. Use commas or periods. No em dashes at all. |
-| Staccato fragmentation | Don't stack short punchy sentences |
-| "Not always. Not perfectly." | Hedging disguised as reassurance |
+**대신:** 해요체를 섞을 것. 해라체도 쓸 것. 어미를 다양하게 바꿀 것. 한 문단 안에서 같은 어미가 세 번 연속 나오면 하나를 바꿀 것.
 
-## Word Patterns
+## 피해야 할 문장 시작
 
-| Pattern | Problem |
-|---------|---------|
-| Lazy extremes (every, always, never, everyone, everybody, nobody) | False authority. Use specifics instead of sweeping claims. |
-| All adverbs (-ly words, "really," "just," "literally," "genuinely," "honestly," "simply," "actually") | Empty emphasis. See phrases.md for full list. |
+| 패턴 | 수정 |
+|------|------|
+| "결론적으로," | 잘라내고 바로 결론 |
+| "따라서" 남발 | 문장 구조 바꾸기 |
+| "물론" | 삭제하거나 직접 쓰기 |
+| "그렇다면" 반복 | 다른 연결로 바꾸기 |
+
+## 리듬 패턴
+
+| 패턴 | 수정 |
+|------|------|
+| 세 항목 나열 | 두 개로 줄이거나 하나만 쓸 것 |
+| 질문 직후 바로 답 | 질문을 살리거나 잘라낼 것 |
+| 모든 문단이 힘 있게 끝남 | 끝을 다양하게 바꿀 것 |
+| 엠대시(—) | 삭제. 쉼표나 마침표 사용 |
+| 짧은 문장 연속 쌓기 | 짧고 긴 문장을 섞을 것 |
+| "~지 않습니다. ~도 아닙니다." | 완화를 가장한 회피 |
+
+## 단어 패턴
+
+| 패턴 | 문제 |
+|------|------|
+| 게으른 극단 (모든, 항상, 절대, 누구나, 아무도) | 거짓 권위. 구체적 수치나 사례로 쓸 것 |
+| 모든 부사 (~하게, 정말, 진짜, 매우, 솔직히, 단순히, 사실) | 빈 강조. phrases.md 참조 |
+| "다양한 ~" | 구체적으로 뭔지 쓸 것 |
+| "효과적인 ~" | 어떻게 효과적인지 보여줄 것 |
+| "체계적인 ~" | 체계가 뭔지 설명할 것 |
+| "글로벌 ~" | 어디인지 구체적으로 쓸 것 |
+
+## 한국어 특유: 번역체 문장 구조
+
+| 패턴 | 문제 |
+|------|------|
+| "~하는 것이 중요합니다" | 영어 "It is important to~"의 직역. "~하세요"로 바꿀 것 |
+| "~한다는 것을 의미합니다" | "~(이)다"로 직접 쓸 것 |
+| "~에 대해서 ~할 필요가 있습니다" | "~를 ~해야 합니다"로 직접 쓸 것 |
+| "~의 경우에는" | "~은/는"으로 줄일 것 |
+| "~라는 점에서 ~" | 문장을 짧게 끊어 쓸 것 |
+| "~하는 데 있어서" | "~할 때"로 줄일 것 |
