@@ -1,68 +1,75 @@
 ---
-name: stop-slop
-description: Remove AI writing patterns from prose. Use when drafting, editing, or reviewing text to eliminate predictable AI tells.
+name: stop-slop-ko
+description: 한국어 산문에서 AI 글쓰기 패턴을 제거합니다. 초안 작성, 편집, 리뷰 시 AI 티가 나는 표현을 잡아냅니다.
 metadata:
-  trigger: Writing prose, editing drafts, reviewing content for AI patterns
-  author: Hardik Pandya (https://hvpandya.com)
----
+  trigger: 한국어 산문 작성, 초안 편집, AI 패턴 리뷰
+    author: Hardik Pandya (https://hvpandya.com), 한국어 버전 jun0-ds
+    ---
 
-# Stop Slop
+    # Stop Slop 한국어
 
-Eliminate predictable AI writing patterns from prose.
+    한국어 산문에서 예측 가능한 AI 글쓰기 패턴을 제거합니다.
 
-## Core Rules
+    ## 핵심 규칙
 
-1. **Cut filler phrases.** Remove throat-clearing openers, emphasis crutches, and all adverbs. See [references/phrases.md](references/phrases.md).
+    1. **군더더기 표현 삭제.** 서두 늘어놓기, 강조 목발, 모든 과잉 부사 삭제. references/phrases.md 참조.
 
-2. **Break formulaic structures.** Avoid binary contrasts, negative listings, dramatic fragmentation, rhetorical setups, false agency. See [references/structures.md](references/structures.md).
+    2. **뻔한 구조 깨기.** 이진 대조, 부정 나열, 극적 분절, 수사적 셋업, 거짓 주체성 피하기. references/structures.md 참조.
 
-3. **Use active voice.** Every sentence needs a human subject doing something. No passive constructions. No inanimate objects performing human actions ("the complaint becomes a fix").
+    3. **능동태 사용.** 모든 문장에 무언가를 하는 사람 주어가 있어야 한다. 수동태/피동 금지.
 
-4. **Be specific.** No vague declaratives ("The reasons are structural"). Name the specific thing. No lazy extremes ("every," "always," "never") doing vague work.
+    4. **무생물 주어에 사람 동사 붙이지 않기.** "기술이 발전합니다" 대신 누가 무엇을 만들었는지 쓸 것.
 
-5. **Put the reader in the room.** No narrator-from-a-distance voice. "You" beats "People." Specifics beat abstractions.
+    5. **구체적으로 쓰기.** 모호한 선언("그 이유는 구조적입니다") 금지. 구체적인 사실을 쓸 것. "다양한", "효과적인", "체계적인" 같은 빈 수식어 금지.
 
-6. **Vary rhythm.** Mix sentence lengths. Two items beat three. End paragraphs differently. No em dashes.
+    6. **독자를 장면 안에 넣기.** 먼 곳에서 내려다보는 화자 금지. "당신"이 "사람들은"보다 낫다. 구체적인 상황이 추상적 서술보다 낫다.
 
-7. **Trust readers.** State facts directly. Skip softening, justification, hand-holding.
+    7. **리듬 바꾸기.** 문장 길이를 섞을 것. 세 항목보다 두 항목이 낫다. 문단 끝을 다양하게 할 것. 엠대시(—) 금지.
 
-8. **Cut quotables.** If it sounds like a pull-quote, rewrite it.
+    8. **독자를 믿기.** 사실을 직접 말할 것. 완화, 정당화, 손잡아주기 삭제. 인용구처럼 들리면 다시 쓸 것.
 
-## Quick Checks
+    9. **번역투 금지.** "~하는 것이 중요합니다", "~할 필요가 있습니다", "~의 경우에는" 같은 영어 직역 구조 금지. 한국어답게 직접 쓸 것.
 
-Before delivering prose:
+    10. **존대 다양화.** 모든 문장을 "~ㅂ니다"로 끝내지 않기. 해요체를 섞고, 어미를 다양하게 바꿀 것. 관공서 말투 금지.
 
-- Any adverbs? Kill them.
-- Any passive voice? Find the actor, make them the subject.
-- Inanimate thing doing a human verb ("the decision emerges")? Name the person.
-- Sentence starts with a Wh- word? Restructure it.
-- Any "here's what/this/that" throat-clearing? Cut to the point.
-- Any "not X, it's Y" contrasts? State Y directly.
-- Three consecutive sentences match length? Break one.
-- Paragraph ends with punchy one-liner? Vary it.
-- Em-dash anywhere? Remove it.
-- Vague declarative ("The implications are significant")? Name the specific implication.
-- Narrator-from-a-distance ("Nobody designed this")? Put the reader in the scene.
-- Meta-joiners ("The rest of this essay...")? Delete. Let the essay move.
+    ## 빠른 체크
 
-## Scoring
+    산문을 내보내기 전에 확인:
 
-Rate 1-10 on each dimension:
+    - 과잉 부사 있나? 삭제.
+    - 수동태/피동 있나? 행위자를 찾아서 주어로 만들 것.
+    - 무생물이 사람 동사를 쓰고 있나? ("기술이 발전합니다") 구체적 행위자로 바꿀 것.
+    - "사실", "핵심은", "결국"으로 시작하나? 잘라내고 본론으로.
+    - "~가 아니라 ~입니다" 이진 대조? Y를 직접 말할 것.
+    - 세 문장 연속으로 길이가 같나? 하나를 잘라내거나 늘릴 것.
+    - 문단이 멋진 한 줄로 끝나나? 바꿀 것.
+    - 엠대시(—) 있나? 삭제.
+    - 모호한 선언("중요성은 크다")? 구체적 사실로 바꿀 것.
+    - 먼 곳에서 내려다보기("아무도 이걸 설계하지 않았다")? 독자를 장면 안에 넣을 것.
+    - 메타 코멘터리("이 글에서는~")? 삭제. 글이 알아서 흘러가게.
+    - 번역투("~하는 것이 중요합니다")? 직접 표현으로 바꿀 것.
+    - 같은 어미가 세 번 연속? 하나를 바꿀 것.
+    - 비즈니스 번역투("혁신적인", "패러다임")? 일상 한국어로 바꿀 것.
+    - "다양한", "효과적인", "체계적인"? 구체적으로 뭔지 쓸 것.
 
-| Dimension | Question |
-|-----------|----------|
-| Directness | Statements or announcements? |
-| Rhythm | Varied or metronomic? |
-| Trust | Respects reader intelligence? |
-| Authenticity | Sounds human? |
-| Density | Anything cuttable? |
+    ## 채점
 
-Below 35/50: revise.
+    각 항목 1-10점:
 
-## Examples
+    | 항목 | 질문 |
+    |------|------|
+    | 직접성 | 진술인가, 공지인가? |
+    | 리듬 | 다양한가, 단조로운가? |
+    | 신뢰 | 독자의 지능을 존중하는가? |
+    | 진정성 | 사람이 쓴 것 같은가? |
+    | 밀도 | 잘라낼 게 있는가? |
 
-See [references/examples.md](references/examples.md) for before/after transformations.
+    35/50 미만: 수정.
 
-## License
+    ## 예시
 
-MIT
+    수정 전/후 변환 사례는 references/examples.md 참조.
+
+    ## 라이선스
+
+    MIT
