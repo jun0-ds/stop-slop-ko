@@ -1,62 +1,67 @@
-# Stop Slop
+# Stop Slop 한국어
 
-A skill for removing AI tells from prose.
+AI가 쓴 티 나는 한국어 글을 고치는 스킬 파일.
 
-<img width="3840" height="2160" alt="G-Yg4RVbIAAhVxW" src="https://github.com/user-attachments/assets/902afc15-1f40-4a9d-af24-8cd67afb8ebf" />
+> 원본: [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop)
 
-## What this is
+## 이게 뭔가요
 
-AI writing has patterns. Predictable phrases, structures, rhythms. This skill teaches Claude (or any LLM) to catch and remove them.
+AI가 쓴 한국어 글에는 패턴이 있습니다. 뻔한 표현, 구조, 리듬. 이 스킬은 Claude(또는 다른 LLM)에게 그런 패턴을 잡아내고 제거하는 법을 가르칩니다.
 
-## Skill Structure
+영어 원본의 규칙을 단순 번역한 것이 아니라, X, 스레드, 링크드인 등에서 실제로 발견되는 **한국어 AI 글쓰기 패턴**을 반영했습니다.
+
+## 스킬 구조
 
 ```
-stop-slop/
-├── SKILL.md              # Core instructions
+stop-slop-ko/
+├── SKILL.md                    # 핵심 규칙
 ├── references/
-│   ├── phrases.md        # Phrases to remove
-│   ├── structures.md     # Structural patterns to avoid
-│   └── examples.md       # Before/after transformations
+│   ├── phrases.md              # 제거할 표현 목록
+│   ├── structures.md           # 피해야 할 구조
+│   └── examples.md             # 수정 전/후 예시
 ├── README.md
 └── LICENSE
 ```
 
-## Quick start
+## 빠른 시작
 
-**Claude Code:** Add this folder as a skill.
+- **Claude Code:** 이 폴더를 스킬로 추가하세요.
+- **Claude Projects:** `SKILL.md`와 references 파일들을 프로젝트 지식에 업로드하세요.
+- **커스텀 지시:** `SKILL.md`에서 핵심 규칙을 복사하세요.
+- **API 호출:** 시스템 프롬프트에 `SKILL.md`를 포함하세요. references 파일은 필요 시 불러옵니다.
 
-**Claude Projects:** Upload `SKILL.md` and reference files to project knowledge.
+## 뭘 잡아내나
 
-**Custom instructions:** Copy core rules from `SKILL.md`.
+**제거할 표현** — 서두 늘어놓기, 강조 목발, 비즈니스 번역투, 과잉 부사, 모호한 선언문, 메타 코멘터리. `references/phrases.md` 참조.
 
-**API calls:** Include `SKILL.md` in your system prompt. Reference files load on demand.
+**피해야 할 구조** — 이진 대조, 부정 나열, 극적 분절, 수사적 셋업, 거짓 주체성, 먼 곳에서 내려다보는 화자, 수동태/피동 남용. `references/structures.md` 참조.
 
-## What it catches
+**한국어 특유 패턴** — 과도한 존대/격식체 단조로움, 번역체 문장 구조("~하는 것이 중요합니다"), 빈 수식어("다양한", "효과적인", "체계적인"), 나열식 구조 남용.
 
-**Banned phrases** - Throat-clearing openers, emphasis crutches, business jargon, all adverbs, vague declaratives, meta-commentary. See `references/phrases.md`.
+**문장 수준 규칙** — 엠대시 금지, 스타카토 분절 금지, 게으른 극단 금지, 능동태 필수, 어미 다양화 필수.
 
-**Structural clichés** - Binary contrasts, negative listings, dramatic fragmentation, rhetorical setups, false agency, narrator-from-a-distance voice, passive voice. See `references/structures.md`.
+## 채점
 
-**Sentence-level rules** - No Wh- sentence starters, no em dashes, no staccato fragmentation, no lazy extremes, active voice required.
+각 항목 1-10점:
 
-## Scoring
+| 항목 | 질문 |
+|------|------|
+| 직접성 | 진술인가, 공지인가? |
+| 리듬 | 다양한가, 단조로운가? |
+| 신뢰 | 독자의 지능을 존중하는가? |
+| 진정성 | 사람이 쓴 것 같은가? |
+| 밀도 | 잘라낼 게 있는가? |
 
-Rate 1-10 on each dimension:
+35/50 미만: 수정.
 
-| Dimension | Question |
-|-----------|----------|
-| Directness | Statements or announcements? |
-| Rhythm | Varied or metronomic? |
-| Trust | Respects reader intelligence? |
-| Authenticity | Sounds human? |
-| Density | Anything cuttable? |
-
-Below 35/50: revise.
-
-## Author
+## 원작자
 
 [Hardik Pandya](https://hvpandya.com)
 
-## License
+## 한국어 버전
 
-MIT. Use freely, share widely.
+jun0-ds
+
+## 라이선스
+
+MIT. 자유롭게 쓰고, 널리 공유하세요.
