@@ -1,128 +1,180 @@
-# Phrases to Remove
+# 제거할 표현 목록
 
-## Throat-Clearing Openers
+## 목 가다듬기 표현 (서두 늘어놓기)
 
-Remove these announcement phrases. State the content directly.
+본론을 꺼내기 전에 깔아놓는 표현들. 잘라내고 바로 본론을 말할 것.
 
-- "Here's the thing:"
-- "Here's what [X]"
-- "Here's this [X]"
-- "Here's that [X]"
-- "Here's why [X]"
-- "The uncomfortable truth is"
-- "It turns out"
-- "The real [X] is"
-- "Let me be clear"
-- "The truth is,"
-- "I'll say it again:"
-- "I'm going to be honest"
-- "Can we talk about"
-- "Here's what I find interesting"
-- "Here's the problem though"
-
-Any "here's what/this/that" construction is throat-clearing before the point. Cut it and state the point.
-
-## Emphasis Crutches
-
-These add no meaning. Delete them.
-
-- "Full stop." / "Period."
-- "Let that sink in."
-- "This matters because"
-- "Make no mistake"
-- "Here's why that matters"
-
-## Business Jargon
-
-Replace with plain language.
-
-| Avoid | Use instead |
-|-------|-------------|
-| Navigate (challenges) | Handle, address |
-| Unpack (analysis) | Explain, examine |
-| Lean into | Accept, embrace |
-| Landscape (context) | Situation, field |
-| Game-changer | Significant, important |
-| Double down | Commit, increase |
-| Deep dive | Analysis, examination |
-| Take a step back | Reconsider |
-| Moving forward | Next, from now |
-| Circle back | Return to, revisit |
-| On the same page | Aligned, agreed |
-
-## Adverbs
-
-Kill all adverbs. No -ly words. No softeners, no intensifiers, no hedges.
-
-Specific offenders:
-
-- "really"
-- "just"
-- "literally"
-- "genuinely"
-- "honestly"
-- "simply"
-- "actually"
-- "deeply"
-- "truly"
-- "fundamentally"
-- "inherently"
-- "inevitably"
-- "interestingly"
-- "importantly"
-- "crucially"
-
-Also cut these filler phrases:
-
-- "At its core"
-- "In today's [X]"
-- "It's worth noting"
-- "At the end of the day"
-- "When it comes to"
-- "In a world where"
-- "The reality is"
-
-## Meta-Commentary
-
-Remove self-referential asides. The essay should move, not announce its own structure.
-
-- "Hint:"
-- "Plot twist:" / "Spoiler:"
-- "You already know this, but"
-- "But that's another post"
-- "X is a feature, not a bug"
-- "Dressed up as"
-- "The rest of this essay explains..."
-- "Let me walk you through..."
-- "In this section, we'll..."
-- "As we'll see..."
-- "I want to explore..."
-
-## Performative Emphasis
-
-False intimacy or manufactured sincerity:
-
-- "creeps in"
-- "I promise"
-- "They exist, I promise"
-
-## Telling Instead of Showing
-
-Announcing difficulty or significance rather than demonstrating it:
-
-- "This is genuinely hard"
-- "This is what leadership actually looks like"
-- "This is what X actually looks like"
-- "actually matters"
-
-## Vague Declaratives
-
-Sentences that announce importance without naming the specific thing. Kill these.
-
-- "The reasons are structural"
-- "The implications are significant"
-- "This is the deepest problem"
-- "The stakes are high"
-- "The consequences are real"
-
-If a sentence says something is important/deep/structural without showing the specific thing, cut it or replace it with the specific thing.
+- "사실 중요한 건 말이죠"
+- - "여기서 핵심은"
+  - - "솔직히 말하면"
+    - - "결국 중요한 건"
+      - - "불편한 진실은"
+        - - "알고 보면"
+          - - "진짜 문제는"
+            - - "분명히 말하자면"
+              - - "다시 한번 강조하자면"
+                - - "솔직하게 얘기하면"
+                  - - "한 가지 짚고 넘어가자면"
+                    - - "흥미로운 점은"
+                      - - "문제는 여기서부터입니다"
+                        - - "오늘은 ~에 대해 이야기해 보겠습니다"
+                          - - "~에 대해 알아보겠습니다"
+                            - - "~라는 사실, 알고 계셨나요?"
+                              - - "많은 분들이 모르시는 사실이 있습니다"
+                               
+                                - "사실", "핵심은", "결국" 등으로 시작하는 문장은 전부 서두 늘어놓기다. 잘라내고 바로 본론.
+                               
+                                - ## 강조 목발
+                               
+                                - 의미 없이 힘만 주는 표현. 삭제할 것.
+                               
+                                - - "두말할 나위 없습니다."
+                                  - - "이것만 기억하세요."
+                                    - - "한 번 생각해 보세요."
+                                      - - "이게 왜 중요하냐면"
+                                        - - "절대 착각하지 마세요"
+                                          - - "이건 단순한 ~이/가 아닙니다"
+                                            - - "~의 시대가 왔습니다"
+                                              - - "~(으)로의 전환이 필요합니다"
+                                               
+                                                - ## 비즈니스 용어 / 번역투
+                                               
+                                                - 일상 한국어로 바꿀 것.
+                                               
+                                                - | 피할 것 | 대신 쓸 것 |
+                                                - |---------|-----------|
+                                                - | 혁신적인 | 새로운, 다른 |
+                                                - | 패러다임 전환 | 변화, 바뀜 |
+                                                - | 새로운 지평을 열다 | 바꾸다, 넓히다 |
+                                                - | 인사이트 | 깨달음, 교훈 |
+                                                - | 레버리지하다 | 활용하다 |
+                                                - | 내러티브 | 이야기, 흐름 |
+                                                - | 임팩트 | 영향, 효과 |
+                                                - | 게임 체인저 | 큰 변화 |
+                                                - | 시너지 | 상승효과, 합 |
+                                                - | 디스럽트 | 뒤흔들다, 깨다 |
+                                                - | 아젠다 | 안건, 주제 |
+                                                - | 마일스톤 | 이정표, 성과 |
+                                                - | 스케일업 | 확장, 키우기 |
+                                                - | 온보딩 | 적응, 시작 |
+                                                - | 피봇하다 | 방향을 바꾸다 |
+                                                - | 로드맵 | 계획, 일정 |
+                                                - | 바텀업/탑다운 | 아래에서 위로/위에서 아래로 |
+                                               
+                                                - ## 과잉 부사 / 군더더기 수식어
+                                               
+                                                - 부사는 전부 의심할 것. 필요 없으면 삭제.
+                                               
+                                                - 구체적 문제 표현:
+                                               
+                                                - - "정말"
+                                                  - - "진짜"
+                                                    - - "매우"
+                                                      - - "상당히"
+                                                        - - "결코"
+                                                          - - "분명히"
+                                                            - - "사실상"
+                                                              - - "근본적으로"
+                                                                - - "본질적으로"
+                                                                  - - "필연적으로"
+                                                                    - - "흥미롭게도"
+                                                                      - - "중요한 것은"
+                                                                        - - "결정적으로"
+                                                                          - - "솔직히"
+                                                                            - - "단순히"
+                                                                              - - "절대적으로"
+                                                                               
+                                                                                - 이것도 잘라낼 것:
+                                                                               
+                                                                                - - "그 본질을 들여다보면"
+                                                                                  - - "오늘날의 ~에서"
+                                                                                    - - "주목할 점은"
+                                                                                      - - "결국엔"
+                                                                                        - - "~에 있어서"
+                                                                                          - - "~하는 세상에서"
+                                                                                            - - "현실은"
+                                                                                              - - "~라는 점에서"
+                                                                                               
+                                                                                                - ## 메타 코멘터리
+                                                                                               
+                                                                                                - 글 자체를 설명하는 표현. 글이 알아서 흘러가게 둘 것.
+                                                                                               
+                                                                                                - - "힌트:"
+                                                                                                  - - "반전:"  / "스포일러:"
+                                                                                                    - - "이미 아시겠지만"
+                                                                                                      - - "그건 다른 글에서 다루겠습니다"
+                                                                                                        - - "~은/는 기능이지 버그가 아닙니다"
+                                                                                                          - - "~의 탈을 쓴"
+                                                                                                            - - "이 글의 나머지 부분에서는..."
+                                                                                                              - - "하나씩 살펴보겠습니다..."
+                                                                                                                - - "이번 섹션에서는..."
+                                                                                                                  - - "앞으로 살펴보겠지만..."
+                                                                                                                    - - "~을/를 탐구해 보겠습니다"
+                                                                                                                      - - "자, 그럼 시작해 볼까요?"
+                                                                                                                        - - "그럼 지금부터 알아보겠습니다"
+                                                                                                                         
+                                                                                                                          - ## 과잉 연출 / 거짓 친밀감
+                                                                                                                         
+                                                                                                                          - 제조된 진정성:
+                                                                                                                         
+                                                                                                                          - - "슬며시 다가오는"
+                                                                                                                            - - "약속합니다"
+                                                                                                                              - - "존재합니다, 정말로요"
+                                                                                                                                - - "~하다는 걸 느끼셨을 겁니다"
+                                                                                                                                 
+                                                                                                                                  - ## 말로 설명하기 (보여주지 않고 떠벌리기)
+                                                                                                                                 
+                                                                                                                                  - 어렵다거나 중요하다고 선언만 하는 표현. 직접 보여줄 것.
+                                                                                                                                 
+                                                                                                                                  - - "이건 정말 어렵습니다"
+                                                                                                                                    - - "이것이야말로 진정한 ~입니다"
+                                                                                                                                      - - "이것이 바로 ~가 실제로 하는 일입니다"
+                                                                                                                                        - - "진짜 중요한 건"
+                                                                                                                                         
+                                                                                                                                          - ## 모호한 선언문
+                                                                                                                                         
+                                                                                                                                          - 중요하다고만 하고 구체적인 것을 말하지 않는 문장. 삭제하거나 구체적인 내용으로 교체.
+                                                                                                                                         
+                                                                                                                                          - - "그 이유는 구조적입니다"
+                                                                                                                                            - - "그 의미는 상당합니다"
+                                                                                                                                              - - "이것이 가장 깊은 문제입니다"
+                                                                                                                                                - - "리스크가 큽니다"
+                                                                                                                                                  - - "그 결과는 현실적입니다"
+                                                                                                                                                    - - "~의 시사점이 크다"
+                                                                                                                                                      - - "~에 대한 고찰이 필요합니다"
+                                                                                                                                                        - - "~의 중요성은 아무리 강조해도 지나치지 않습니다"
+                                                                                                                                                         
+                                                                                                                                                          - 중요하다/깊다/구조적이라고만 하고 구체적으로 뭔지 안 보여주는 문장은 잘라내거나 구체적인 사실로 교체할 것.
+                                                                                                                                                         
+                                                                                                                                                          - ## 한국어 특유의 AI 슬롭 표현
+                                                                                                                                                         
+                                                                                                                                                          - 한국어 AI 생성 글에서 자주 발견되는 패턴:
+                                                                                                                                                         
+                                                                                                                                                          - - "~(이)라고 할 수 있습니다" → 단정적으로 쓸 것
+                                                                                                                                                            - - "~(으)ㄹ 수 있을 것입니다" → 확신 없으면 빼거나 단정할 것
+                                                                                                                                                              - - "~(으)ㄴ/는 것으로 알려져 있습니다" → 누가 말했는지 밝힐 것
+                                                                                                                                                                - - "~에 기여할 수 있습니다" → 구체적으로 어떻게인지 쓸 것
+                                                                                                                                                                  - - "~할 필요가 있습니다" → "~해야 합니다"로 직접 쓸 것
+                                                                                                                                                                    - - "~(으)ㄹ 것으로 예상됩니다" → 누가 예상하는지 밝힐 것
+                                                                                                                                                                      - - "~(으)ㄹ 것으로 기대됩니다" → 누가 기대하는지 밝힐 것
+                                                                                                                                                                        - - "다양한 ~" → 구체적으로 나열할 것
+                                                                                                                                                                          - - "효과적인 ~" → 어떻게 효과적인지 쓸 것
+                                                                                                                                                                            - - "체계적인 ~" → 구체적인 체계를 설명할 것
+                                                                                                                                                                             
+                                                                                                                                                                              - ### 지나친 존대/격식 패턴
+                                                                                                                                                                             
+                                                                                                                                                                              - AI 한국어 글의 가장 큰 특징은 과도한 존대와 격식체:
+                                                                                                                                                                             
+                                                                                                                                                                              - - "~하시기 바랍니다" → "~하세요" 또는 "~해라"
+                                                                                                                                                                                - - "~해 주시면 감사하겠습니다" → "~해 주세요"
+                                                                                                                                                                                  - - "~(으)시기를 권장합니다" → "~하세요"
+                                                                                                                                                                                    - - 모든 문장을 "~ㅂ니다"로 끝내기 → 해요체를 섞을 것
+                                                                                                                                                                                      - - "독자 여러분" → "당신" 또는 "우리"
+                                                                                                                                                                                       
+                                                                                                                                                                                        - ### 나열식 구조
+                                                                                                                                                                                       
+                                                                                                                                                                                        - AI가 좋아하는 번호 매기기와 리스트:
+                                                                                                                                                                                       
+                                                                                                                                                                                        - - "첫째, ... 둘째, ... 셋째, ..." → 자연스러운 문장으로 풀 것
+                                                                                                                                                                                          - - "다음과 같습니다:" + 번호 리스트 → 문장 안에서 설명
+                                                                                                                                                                                            - - "요약하자면" + 불릿 포인트 → 삭제하거나 문장으로 쓸 것
