@@ -1,59 +1,91 @@
-# Before/After Examples
+# 수정 전/후 예시
 
-## Example 1: Throat-Clearing + Binary Contrast
+## 예시 1: 서두 늘어놓기 + 이진 대조
 
-**Before:**
-> "Here's the thing: building products is hard. Not because the technology is complex. Because people are complex. Let that sink in."
+**수정 전:**
+"사실 중요한 건 말이죠, 제품을 만드는 건 어렵습니다. 기술이 복잡해서가 아닙니다. 사람이 복잡하기 때문입니다. 한 번 생각해 보세요."
 
-**After:**
-> "Building products is hard. Technology is manageable. People aren't."
+**수정 후:**
+"제품 만들기가 어려운 건 기술 때문이 아니라 사람 때문이다."
 
-**Changes:** Removed opener, binary contrast structure, and emphasis crutch. Direct statements.
+**변경 사항:** 서두 잘라냄. 이진 대조 구조 제거. 강조 목발 삭제. 한 문장으로 직접 진술.
 
----
+## 예시 2: 군더더기 + 불필요한 허락
 
-## Example 2: Filler + Unnecessary Reassurance
+**수정 전:**
+"알고 보면 대부분의 팀이 방향 정렬에 어려움을 겪습니다. 불편한 진실은, 아무도 자기가 헷갈리고 있다는 걸 인정하고 싶어하지 않는다는 겁니다. 그래도 괜찮습니다."
 
-**Before:**
-> "It turns out that most teams struggle with alignment. The uncomfortable truth is that nobody wants to admit they're confused. And that's okay."
+**수정 후:**
+"팀이 방향 정렬에 실패한다. 누구도 자기가 헷갈린다고 말 안 한다."
 
-**After:**
-> "Teams struggle with alignment. Nobody admits confusion."
+**변경 사항:** 완화어("대부분의") 삭제. 서두("알고 보면") 삭제. 허락 표현("그래도 괜찮습니다") 삭제.
 
-**Changes:** Cut hedging ("most"), removed throat-clearing phrases, deleted permission-granting ending.
+## 예시 3: 비즈니스 번역투 범벅
 
----
+**수정 전:**
+"오늘날의 빠르게 변화하는 비즈니스 랜드스케이프에서, 우리는 불편함을 레버리지하고 불확실성을 효과적으로 내비게이트할 필요가 있습니다. 이게 왜 중요하냐면, 경쟁자는 기다려주지 않기 때문입니다."
 
-## Example 3: Business Jargon Stack
+**수정 후:**
+"빨리 움직여라. 경쟁자는 기다리지 않는다."
 
-**Before:**
-> "In today's fast-paced landscape, we need to lean into discomfort and navigate uncertainty with clarity. This matters because your competition isn't waiting."
+**변경 사항:** 번역투 전부 삭제. 핵심 메시지 두 문장.
 
-**After:**
-> "Move faster. Your competition is."
+## 예시 4: 극적 분절
 
-**Changes:** Eliminated jargon entirely. Core message in six words.
+**수정 전:**
+"속도. 품질. 비용. 셋 중 둘만 고를 수 있습니다. 그것뿐입니다. 그게 트레이드오프입니다."
 
----
+**수정 후:**
+"속도, 품질, 비용 중 둘만 골라라."
 
-## Example 4: Dramatic Fragmentation
+**변경 사항:** 한 문장. 연출용 강조 삭제.
 
-**Before:**
-> "Speed. Quality. Cost. You can only pick two. That's it. That's the tradeoff."
+## 예시 5: 수사적 셋업
 
-**After:**
-> "Speed, quality, cost—pick two."
+**수정 전:**
+"만약 최고의 팀이 생산성이 아닌 다른 것을 최적화한다면 어떨까요? 제 말은 이겁니다: 그들은 학습을 최적화합니다. 생각해 보세요."
 
-**Changes:** Single sentence. No performative emphasis.
+**수정 후:**
+"좋은 팀은 생산성이 아니라 학습에 집중한다."
 
----
+**변경 사항:** 직접 진술. 수사적 장치 전부 삭제.
 
-## Example 5: Rhetorical Setup
+## 예시 6: 거짓 주체성
 
-**Before:**
-> "What if I told you that the best teams don't optimize for productivity? Here's what I mean: they optimize for learning. Think about it."
+**수정 전:**
+"기술이 발전하면서 시장이 새로운 기회를 만들어내고 있습니다. 트렌드가 우리에게 방향을 제시합니다."
 
-**After:**
-> "The best teams optimize for learning, not productivity."
+**수정 후:**
+"엔지니어들이 도구를 더 빠르게 만들고 있고, 그 덕에 작은 팀도 예전에는 불가능했던 제품을 출시할 수 있다."
 
-**Changes:** Direct claim. No rhetorical scaffolding.
+**변경 사항:** 무생물 주어("기술", "시장", "트렌드")를 구체적 행위자로 교체. 추상적 서술을 구체적 상황으로 전환.
+
+## 예시 7: 과도한 존대 + 모호한 선언
+
+**수정 전:**
+"이 문제의 중요성은 아무리 강조해도 지나치지 않습니다. 체계적인 접근이 필요하며, 다양한 이해관계자들의 참여가 요구됩니다. 효과적인 해결책을 마련하시기 바랍니다."
+
+**수정 후:**
+"이 문제를 풀려면 디자인팀과 영업팀이 같이 앉아야 한다. 지금 각자 다른 방향으로 달리고 있다."
+
+**변경 사항:** 모호한 선언("중요성", "체계적", "다양한", "효과적") 전부 구체적 내용으로 교체. 관공서 말투 제거.
+
+## 예시 8: 메타 코멘터리 + 번역체
+
+**수정 전:**
+"오늘은 스타트업의 성장 전략에 대해 알아보겠습니다. 이번 글에서는 세 가지 핵심 포인트를 살펴볼 예정입니다. 첫째, 제품-시장 적합성을 찾는 것이 중요합니다."
+
+**수정 후:**
+"스타트업이 성장하려면 먼저 사람들이 진짜 원하는 제품을 만들어야 한다."
+
+**변경 사항:** 메타 코멘터리("오늘은~", "이번 글에서는~") 삭제. 번역체("~것이 중요합니다") 직접 표현으로 전환. 나열 예고 삭제.
+
+## 예시 9: 링크드인/스레드 AI 슬롭
+
+**수정 전:**
+"혁신적인 AI 기술이 새로운 지평을 열고 있습니다. 🚀 이 패러다임의 전환은 단순한 트렌드가 아닙니다. 우리 모두가 주목해야 할 게임 체인저입니다. 여러분의 생각은 어떠신가요? 💡"
+
+**수정 후:**
+"GPT-4 나온 뒤로 번역 프리랜서 일이 30% 줄었다. 코딩 보조도 주니어 채용 시장을 바꾸고 있다."
+
+**변경 사항:** 번역투 용어("혁신적인", "새로운 지평", "패러다임", "게임 체인저") 전부 제거. 추상적 주장을 구체적 사실로 교체. 이모지와 강제 질문 삭제.
